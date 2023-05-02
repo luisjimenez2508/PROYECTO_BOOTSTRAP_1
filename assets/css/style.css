@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+}
+
+.fondo{
+    background-image: url(../img/stage.jpg);
+    height: 100;
+    width: 100;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box-color{
+    opacity: 80%;
+    background-color: black;
+
+
+    
+}
+
+.box-color p, h3, h4{
+    
+    color: white;
+    opacity: 100%;
+}
+
